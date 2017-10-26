@@ -1,4 +1,4 @@
-(http://www.joshuad.net/new-bard-handbook-files/imgs/gnome.jpg)
+![alt text](http://www.joshuad.net/new-bard-handbook-files/imgs/gnome.jpg "Lizion")
 
 # Background
 
