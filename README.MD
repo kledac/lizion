@@ -1,24 +1,13 @@
 # Características do Personagem
-<dl>
-    <dt>Motivações primárias</dt>
-    <dd>Benevolência, Nobilidade, Honra</dd>
-    
-<dt>Disposição Emocional, Humor/dt>
-<dd>Curioso, humor de rápida mudança</dd>  
-    
-</dl>
-Primary Motivation: Benevolence, to help and protect the weak / Nobility/Honor
 
-EMOTIONAL DISPOSITION: Curious
-MOODINESS: Labile quick to change
+| --------------------------------------------- | --------------------------------  | 
+| **Motivações**:Benevolência, Nobilidade, Honra| **Impulsividade**: Hiperativo     |
+| **Disposição Emocional**:Curioso              | **Coragem**: Audacioso, Confiante |
+| **Humor**:Alterações rápidas                  | **Conveniência**: altruista, mente aberta |
+| **Perspectiva**: Esperançoso                  | **Interatividade**: Falador, entretedor |
+| **Integridade**:Manipulativa                  | **Conformidade**: Rebelde |
 
-OUTLOOK: hopeful
-INTEGRITY: manipulative
-IMPULSIVENESS: hyperactive
-BOLDNESS: audacious, confident
-AGREEABLENESS: altruistic, open-minded
-INTERACTIVITY: Talkative, entertaining
-CONFORMITY: Rebellious
+
 
 
 Sense of Humor: Brincalhão
