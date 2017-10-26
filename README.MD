@@ -9,6 +9,14 @@
 | **Integridade**:Manipulativa                  | **Conformidade**: Rebelde |
 
 
+<dl>
+    <dt>**Senso de humor**: Brincalhão </dt>
+    <dt>**Tópicos de conversa**</dt>
+    <dd>Aventuras</dd>
+    <dd>Hobbies</dd>
+    <dd>Humor</dd>
+</dl>
+    
 
 
 Sense of Humor: Brincalhão
