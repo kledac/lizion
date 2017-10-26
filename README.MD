@@ -17,6 +17,12 @@ Este amor durou uma primavera inteira, até que um dia Lizion estava indo encont
 Esta foi a última vez que Lizion disfarçou-se, a última vez que viu Siena, mas a primeira vez que viu que precisava proteger aqueles que não podem proteger a si mesmos, que deve mudar o sistema injusto que obriga pobres a matarem pobres e prometeu que levará punição a todo que mereçam serem punidos, custe o que custar.
 
 
+# Lendas
+
+Existe uma lenda que os ancestrais do clã Silverion seriam elementais do ar, não há evidencias desses relacionamentos e nenhum ancestral direto conhecido manifestou quaisquer tipos de anomalias ou poderes relacionados a essa relação.
+
+
+
 # Características do Personagem
 
 |                                               |                                   |
