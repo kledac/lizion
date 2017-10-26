@@ -1,5 +1,6 @@
 # Características do Personagem
 
+|                                               |                                   |
 | --------------------------------------------- | --------------------------------  | 
 | **Motivações**:Benevolência, Nobilidade, Honra| **Impulsividade**: Hiperativo     |
 | **Disposição Emocional**:Curioso              | **Coragem**: Audacioso, Confiante |
@@ -37,3 +38,9 @@ Sua família lutou para prover tudo de melhor para Lizion, oferecendo a ele o es
 Lizion não aceita o sistema de castas e decidiu que haveria de lutar contra esse sistema, se não fosse alguém de uma casta superior os pobres e desafortunados nunca teriam uma chance, utiliza-se do bom humor e de piadas para que as pessoas o subestimem, isso combinado com a sua baixa estatura o faz passar desapercebido.
 Decidiu então disfarçar-se e descer ao submundo para aprender como vivem as castas inferiores e descobriu sua real vocação, a arte da ladinagem. Roubava dos que tinham mais e distribuía isso nas igrejas que ajudavam os pobres. Fez esse tipo de ação durante um bom tempo, chamando atenção de uma guilda de ladinos, a qual o ensinou como aperfeiçoar a sua arte.
 Hoje em dia Lizion busca sempre aperfeiçoar suas habilidade, para poder ajudar os que mais precisam, mas também para poder erguer-se ao nível necessário para mudar o sistema injusto no qual está inserido.
+
+
+git add *
+git commit -m "alteração historico"
+git push origin master
+
