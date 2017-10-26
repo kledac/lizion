@@ -10,31 +10,22 @@
 
 
 <dl>
-    <dt>**Senso de humor**: Brincalhão </dt>
-    <dt>**Tópicos de conversa**</dt>
+    <dt>Senso de humor</dt>
+    <dd>Brincalhão</dd>
+    <dt>Tópicos de conversa</dt>
     <dd>Aventuras</dd>
     <dd>Hobbies</dd>
     <dd>Humor</dd>
+    <dt>Hábitos</dt>
+    <dd>Jogar moedas</dd>
+    <dd>Mentir</dd>
+    <dd>Exagerar coisas</dd>
+    <dd>Roubar</dd>
+    <dt>Hobbies</dt>
+    <dd>Acrobacias</dd>
+    <dd>Apreciar música</dd>
+    <dd>Contar histórias</dd>
 </dl>
-    
-
-
-Sense of Humor: Brincalhão
-Favorite Topics of Conversation: Adventures, Hobbies, Humor
-Religion: Tolerant
-Religious association: Indigenous
-
-
-Quirks, Habits, and Oddities
-Coin flipping
-Exaggeration
-Compulsive lying
-Stealing
-
-Hobbies and Enjoyments
-Acrobatics
-Music appreciation
-Storytelling
 
 # Background
 
