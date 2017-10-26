@@ -3,11 +3,9 @@
     <dt>Motivações primárias</dt>
     <dd>Benevolência, Nobilidade, Honra</dd>
     
-    <dt>Disposição Emocional, Humor</dt>
-    <dd>Curioso, humor de rápida mudança</dd>
+<dt>Disposição Emocional, Humor/dt>
+<dd>Curioso, humor de rápida mudança</dd>  
     
-    <dt>Disposição Emocional, Humor</dt>
-    <dd>Curioso, humor de rápida mudança</dd>
 </dl>
 Primary Motivation: Benevolence, to help and protect the weak / Nobility/Honor
 
